@@ -116,8 +116,8 @@ Stationary, Scripted Walk, Free Walk 三種 Experimental Scenarios 透過 walk_l
 
 Blocked Object Problem 中的 R 由 obj_missing_rate 進行切換
 
-1 為 R = 1
-8 為 R = 0.8
+1 為 R = 1, 
+8 為 R = 0.8, 
 6 為 R = 0.6
 
 ### (4) 5.7 Effects of Number of Beacons
@@ -126,9 +126,9 @@ Blocked Object Problem 中的 R 由 obj_missing_rate 進行切換
 
 Number of Beacons 中 Beacons 的數量由 beacon_count 進行切換
 
-7 為 7 Beacons
-6 為 6 Beacons
-5 為 5 Beacons
+7 為 7 Beacons, 
+6 為 6 Beacons, 
+5 為 5 Beacons, 
 4 為 4 Beacons
 
 ### (5) 5.8 Effects of Device Heterogeneity
@@ -137,20 +137,20 @@ Number of Beacons 中 Beacons 的數量由 beacon_count 進行切換
 
 Number of Beacons 中的 Group G, G‘, G“ 由 beacon_rate 進行切換
 
-1 為 Group G
-2 為 Group G‘
+1 為 Group G, 
+2 為 Group G‘, 
 3 為 Group G“
 
 ## 3. 前置作業參考程式
 
 此部分繼承自110林廷瑋學長交接的 Code，可將手機接收到的 Raw Data 轉換成程式所需的 csv 檔案
 
-(1) Wireless_hashing_train.ipynb
-(2) Wireless_hashing_test.ipynb
-(3) Image_hashing_train.ipynb
-(4) Image_hashing_test.ipynb
-(5) Object_detection.ipynb
-(6) obj_detection_train.py
+(1) Wireless_hashing_train.ipynb, 
+(2) Wireless_hashing_test.ipynb, 
+(3) Image_hashing_train.ipynb, 
+(4) Image_hashing_test.ipynb, 
+(5) Object_detection.ipynb, 
+(6) obj_detection_train.py, 
 (7) obj_detection_test.py
 
 ## 4. 其他參考程式
