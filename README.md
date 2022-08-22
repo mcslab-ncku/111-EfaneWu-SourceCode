@@ -1,5 +1,6 @@
 # 程式交接
-[TOC]
+
+每一段程式執行前，需先更改為自己的路徑
 
 ## 1. Dynamic Localization System 主程式
 
